@@ -28,3 +28,12 @@ Join the live developer webinar on March 27th and learn what it takes to build e
 Join the live developer webinar on March 27th and learn what it takes to build enterprise-ready Miro apps.
 
 **[Join the webinar→](https://go2.miro.com/FY25Q1-GLB-WB-LW-NA_GNL-Build_Ent-Ready_Apps-no-SL_WebinarRegistrationLP.html)**
+
+
+
+Revised assets:
+![Brand Assets Inspiration _ Devto - Frame 2 (1)](https://github.com/bishopwm/devto_march_webinar/assets/10800544/3c5ed947-912e-4daf-91e8-36c9f1e2d44a)
+
+![Brand Assets Inspiration _ Devto - Frame 1 (1)](https://github.com/bishopwm/devto_march_webinar/assets/10800544/f3e94be6-7cb6-49dd-91c0-d94621d8f054)
+
+![Brand Assets Inspiration _ Devto - Frame 3 (1)](https://github.com/bishopwm/devto_march_webinar/assets/10800544/6ba7307b-d74e-4342-acc2-072db6a69e8f)
